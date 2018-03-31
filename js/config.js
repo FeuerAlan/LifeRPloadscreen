@@ -13,7 +13,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "LifeRP";
+var l_serverName = "GunLifeRP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -87,8 +87,7 @@ var l_musicDisplay = true;
 
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
-var l_musicPlaylist = [
-	{ogg: "songs/song1.ogg", name: "To Let Myself Go"},   
+var l_musicPlaylist = [  
 	{ogg: "songs/Yann-Tiersen-Mothers-Journey-long-version.ogg", name: "Yann Tiersen - Mother's Journey"},
 ];
 
