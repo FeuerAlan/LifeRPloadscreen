@@ -103,7 +103,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Добро пожаловать на сервер LifeRP",
+"Добро пожаловать на сервер GunLifeRP",
 "Создатели: FeuerAlan, Leshiy.",
 "Подружитесь, следуйте правилам и получайте удовольствие!",
 "Не забывайте быть добрым и уважать других!",
