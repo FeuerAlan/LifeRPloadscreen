@@ -89,7 +89,7 @@ var l_musicDisplay = true;
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [  
 	{ogg: "songs/Yann-Tiersen-Mothers-Journey-long-version.ogg", name: "Yann Tiersen - Mother's Journey"},
-];
+]; 
 
 /*Random music order?*/
 var l_musicRandom = true;
