@@ -88,7 +88,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [  
-	{ogg: "verka_serdjuchka_-_ajn_cvaj_draj_rasha_gud_baj_(zf.fm).ogg", name: "Yann Tiersen - Mother's Journey"},
+	{ogg: "Yann-Tiersen-Mothers-Journey-long-version.ogg", name: "Yann Tiersen - Mother's Journey"},
 ]; 
 
 /*Random music order?*/
